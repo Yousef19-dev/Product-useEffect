@@ -28,6 +28,9 @@ export default function Navbar() {
               <Link className="nav-link" to="/cart">
                 cart
               </Link>
+              <Link className="nav-link" to="/login">
+                login
+              </Link>
             </div>
           </div>
         </div>
